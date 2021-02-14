@@ -16,3 +16,5 @@ composer.lock
 phpunit.xml
 _ide_helper.php
 .editorconfig
+package.lock
+
